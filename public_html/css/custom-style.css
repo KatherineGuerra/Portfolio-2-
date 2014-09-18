@@ -1,6 +1,7 @@
 div {
     border-style: outset;
     border-width: 5px; 
+    border-color: springgreen;
     padding: 30px;
 }
 
