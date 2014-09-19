@@ -2,7 +2,7 @@ div {
     border-style: outset;
     border-width: 5px; 
     border-color: springgreen;
-    padding: 30px;
+/*    padding: 30px;*/
 }
 
 .container {
@@ -11,4 +11,8 @@ div {
 
 .row {
     border-color: crimson;
+}
+
+body{
+    background-color: darkslategrey;
 }
