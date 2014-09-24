@@ -10,7 +10,7 @@ div {
 }
 
 .row {
-    border-color: crimson;
+    border-color: deeppink;
 }
 
 .list-group-item{
@@ -28,8 +28,8 @@ div {
 
 body{
     font-family: cursive;
-    background-image: url('http://i826.photobucket.com/albums/zz186/willisnowell/Gifs/fireworks2_zps1e2a81de.gif');
-    background-size-cover:40px;
+    background-image: url('http://www.123gifs.eu/free-gifs/fireworks/feuerwerk-0057.gif');
+    font-size: large;  
 }
 
 #current-link{
@@ -37,6 +37,27 @@ body{
 }
 
 nav a{
-    color: darkturquoise;
+   color: crimson;
    
 }
+.text-lowercase{
+    text-transform: uppercase;
+    font-size: 39px;
+}
+
+img{
+    width: auto;
+    height: 200px;
+}
+
+h1{ 
+ border-bottom: 3px double cyan;
+ padding-left: 40px;
+ padding-bottom: 10px;
+ padding-top: 10px;
+ margin-top: 20px;
+ margin-left: 2px;
+ margin-right: 10px;
+    
+}
+
