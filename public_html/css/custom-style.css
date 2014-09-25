@@ -6,11 +6,11 @@ div {
 }
 
 .container {
-    border-color: aqua; 
+    border-color: deeppink; 
 }
 
 .row {
-    border-color: deeppink;
+    border-color: gold;
 }
 
 .list-group-item{
@@ -44,7 +44,6 @@ nav a{
     text-transform: uppercase;
     font-size: 39px;
 }
-
 img{
     width: auto;
     height: 200px;
@@ -57,7 +56,7 @@ h1{
  padding-top: 10px;
  margin-top: 20px;
  margin-left: 2px;
- margin-right: 10px;
-    
+ margin-right: 10px;   
 }
-
+/* i chose cyan as my border because i thought it would match my background*/ 
+/* i put the h2 as class="text-lowercase" because i couldnt find another way to get the h2 a diferent size from h1*/
