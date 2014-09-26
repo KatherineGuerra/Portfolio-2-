@@ -17,7 +17,7 @@ div {
     border: 0;
     padding-top: 30px;
     padding-bottom: 30px;
-    margin-top: 3opx;
+    margin-top: 30px;
     margin-bottom: 30px;
 }
 
@@ -32,12 +32,12 @@ body{
     font-size: large;  
 }
 
-#current-link{
-    text-decoration-color: pink;
+#mainText{
+    color: white;
 }
 
 nav a{
-   color: crimson;
+   color: darkmagenta;
    
 }
 .text-lowercase{
@@ -46,7 +46,7 @@ nav a{
 }
 img{
     width: auto;
-    height: 200px;
+    height: 270px;
 }
 
 h1{ 
@@ -58,5 +58,6 @@ h1{
  margin-left: 2px;
  margin-right: 10px;   
 }
-/* i chose cyan as my border because i thought it would match my background*/ 
+/* i chose springgreen as my border because i thought it would match my background*/ 
 /* i put the h2 as class="text-lowercase" because i couldnt find another way to get the h2 a diferent size from h1*/
+/* I put the #main text white so you can see better since my background is white*/
