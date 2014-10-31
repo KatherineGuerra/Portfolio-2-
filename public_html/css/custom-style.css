@@ -46,7 +46,7 @@ nav a{
 }
 img{
     width: auto;
-    height: 270px;
+    height: 250px; 
 }
 
 h1{ 
@@ -58,6 +58,8 @@ h1{
  margin-left: 2px;
  margin-right: 10px;   
 }
+
 /* i chose springgreen as my border because i thought it would match my background*/ 
 /* i put the h2 as class="text-lowercase" because i couldnt find another way to get the h2 a diferent size from h1*/
 /* I put the #main text white so you can see better since my background is white*/
+/*270px*/
