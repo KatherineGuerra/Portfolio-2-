@@ -59,6 +59,10 @@ h1{
  margin-right: 10px;   
 }
 
+#pic {
+    width: 250;
+    height: auto;
+}
 /* i chose springgreen as my border because i thought it would match my background*/ 
 /* i put the h2 as class="text-lowercase" because i couldnt find another way to get the h2 a diferent size from h1*/
 /* I put the #main text white so you can see better since my background is white*/
