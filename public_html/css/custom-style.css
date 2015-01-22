@@ -1,8 +1,8 @@
 div {
-   /* border-style: outset;*/
+   
     border-width: 5px; 
     border-color: springgreen;
-    /*    padding: 30px;*/
+   
 }
 
 .container {
@@ -24,6 +24,7 @@ div {
 .uppercase{
     text-transform: uppercase;
     font-size: 42px;
+    font-weight: bolder;
 }
 
 body{
@@ -61,6 +62,7 @@ nav a{
 
 #color{
     color: #ff0000;
+   
     font-weight: bolder;
 }
 
@@ -86,10 +88,7 @@ h1{
     margin-right: 10px;   
 }
 
-#pic {
-    width: 250;
-    height: auto;
-}
+
 #img{
     width: 500px;
     height: auto;
